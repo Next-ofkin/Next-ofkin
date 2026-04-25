@@ -15,9 +15,9 @@
 ### 👨‍💻 About Me
 
 - 🏢 **Lead Developer** @ [NOLT Finance](https://stringsautomation.com) — AI-powered loan & IPPIS intelligence
-- 🚀 **Founder** @ [Strings Automation](https://stringsautomation.com) — messaging SaaS for African businesses
+- 🚀 **Co-Founder** @ [Strings Automation](https://stringsautomation.com) — messaging SaaS for African businesses
 - 📍 Based in **Lagos, Nigeria**
-- ⚡ I ship production software using **Antigravity** — my AI-augmented build method
+- ⚡ I ship production software 
 - 🔭 Currently building **OracleNA** — cloud AI code intelligence platform
 - 💬 Ask me about **NestJS, Next.js, Supabase, PostgreSQL, Railway**
 - 📫 Reach me at **oluwajuowoloshogbola@gmail.com**
