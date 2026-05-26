@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 
-- 🏢 **Lead Developer** @ [NOLT Finance](https://stringsautomation.com) — AI-powered loan & IPPIS intelligence
+- 🏢 **Lead Developer** @(https://stringsautomation.com) — AI-powered loan & IPPIS intelligence
 - 🚀 **Co-Founder** @ [Strings Automation](https://stringsautomation.com) — messaging SaaS for African businesses
 - 📍 Based in **Lagos, Nigeria**
 - ⚡ I ship production software 
