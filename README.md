@@ -1,10 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0D1117&height=200&section=header&text=Excel%20Shogbola&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technical%20Product%20Manager%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20SaaS%20Builder&descAlignY=55&descSize=18&descColor=3ECF8E" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0D1117&height=200&section=header&text=Excel%20Shogbola&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Founder%2C%20Lumenware%20Technologies&descAlignY=55&descSize=18&descColor=3ECF8E">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:F4F1EA&height=200&section=header&text=Excel%20Shogbola&fontSize=60&fontColor=0D1117&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Founder%2C%20Lumenware%20Technologies&descAlignY=55&descSize=18&descColor=0D7A56">
+  <img alt="Excel Shogbola" src="https://capsule-render.vercel.app/api?type=waving&color=0:3ECF8E,100:0D1117&height=200&section=header&text=Excel%20Shogbola&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20SaaS%20Builder%20%C2%B7%20Founder%2C%20Lumenware%20Technologies&descAlignY=55&descSize=18&descColor=3ECF8E">
+</picture>
+
+<img src="https://raw.githubusercontent.com/Next-ofkin/Next-ofkin/main/magic-bar.svg" width="100%" height="6" alt="" />
+
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=700&lines=Building+production+systems+for+Africa+%F0%9F%8C%8D;NestJS+%7C+Next.js+%7C+TypeScript+%7C+Supabase;Lead+Developer+%40+NOLT+Finance;Founder+%40+Strings+Automation;Shipping+real+software+with+Antigravity+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3ECF8E&center=true&vCenter=true&width=700&lines=Building+production+systems+for+Africa+%F0%9F%8C%8D;NestJS+%7C+Next.js+%7C+TypeScript+%7C+Supabase;Founder+%40+Lumenware+Technologies;Fintech+%26+loan+domain+experience+%40+NOLT+Finance;Shipping+real+software+with+Antigravity+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,12 +22,13 @@
 
 ### 👨‍💻 About Me
 
-- 🏢 **Lead Developer** @(https://stringsautomation.com) — AI-powered loan & IPPIS intelligence
-- 🚀 **Co-Founder** @ [Strings Automation](https://stringsautomation.com) — messaging SaaS for African businesses
+- 🏢 **Founder** @ Lumenware Technologies — building [Strings Automation](https://stringsautomation.com) and AI-powered SaaS products
+- 🚀 **Co-Founder** @ [Strings Automation](https://stringsautomation.com) — multi-tenant messaging SaaS (Email · SMS · WhatsApp) for African businesses
+- 💼 Fintech & loan domain experience @ **NOLT Finance**, Lagos
 - 📍 Based in **Lagos, Nigeria**
-- ⚡ I ship production software 
-- 🔭 Currently building **OracleNA** — cloud AI code intelligence platform
-- 💬 Ask me about **NestJS, Next.js, Supabase, PostgreSQL, Railway**
+- 🎓 B.Sc. Computer Science, University of Ibadan
+- 🔭 Currently building: **OracleNA**, **AppliaED**, **LoanPilot** (Qwen Cloud Global AI Hackathon), and an Autonomous YouTube Shorts Content Engine
+- 💬 Ask me about **NestJS, Next.js, Supabase, PostgreSQL, Railway, AI integration (Claude API / OpenRouter)**
 - 📫 Reach me at **oluwajuowoloshogbola@gmail.com**
 
 <br clear="right"/>
@@ -53,12 +62,20 @@
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+**AI & Automation**
+
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logo=openai&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+
 **Infrastructure & DevOps**
 
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 </div>
 
@@ -68,20 +85,36 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Next-ofkin&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=3ECF8E&title_color=3ECF8E&text_color=ffffff&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Next-ofkin&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3ECF8E&text_color=ffffff" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Next-ofkin&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=3ECF8E&title_color=3ECF8E&text_color=ffffff&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Next-ofkin&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&icon_color=0D7A56&title_color=0D7A56&text_color=0D1117&count_private=true">
+  <img height="180em" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Next-ofkin&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=3ECF8E&title_color=3ECF8E&text_color=ffffff&count_private=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Next-ofkin&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3ECF8E&text_color=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Next-ofkin&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=0D7A56&text_color=0D1117">
+  <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Next-ofkin&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=3ECF8E&text_color=ffffff">
+</picture>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Next-ofkin&theme=dark&hide_border=true&background=0D1117&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Next-ofkin&theme=dark&hide_border=true&background=0D1117&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E&sideLabels=ffffff&dates=888888">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Next-ofkin&theme=default&hide_border=true&background=ffffff&ring=0D7A56&fire=0D7A56&currStreakLabel=0D7A56&sideLabels=0D1117&dates=555555">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Next-ofkin&theme=dark&hide_border=true&background=0D1117&ring=3ECF8E&fire=3ECF8E&currStreakLabel=3ECF8E&sideLabels=ffffff&dates=888888">
+</picture>
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Next-ofkin&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Next-ofkin&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Next-ofkin&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Next-ofkin&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C">
+</picture>
 
 </div>
 
@@ -89,7 +122,11 @@
 
 ### 📈 Contribution Graph
 
-[![Excel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Next-ofkin&bg_color=0D1117&color=3ECF8E&line=3ECF8E&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Next-ofkin&bg_color=0D1117&color=3ECF8E&line=3ECF8E&point=ffffff&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Next-ofkin&bg_color=ffffff&color=0D7A56&line=0D7A56&point=0D1117&area=true&hide_border=true">
+  <img alt="Excel's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Next-ofkin&bg_color=0D1117&color=3ECF8E&line=3ECF8E&point=ffffff&area=true&hide_border=true">
+</picture>
 
 ---
 
@@ -100,9 +137,12 @@
 | 🏗 Project | 📝 Description | 🛠 Stack |
 |---|---|---|
 | **[Strings Automation](https://stringsautomation.com)** | Multi-tenant messaging SaaS for African businesses | NestJS · React · PostgreSQL · WhatsApp API |
-| **NOLT IPPIS Intelligence** | AI-powered payroll & loan eligibility platform | Next.js · Supabase · Claude API · PostgreSQL |
-| **Sisi Igbadun** | Nigerian snacks e-commerce — zero to production | Next.js 15 · Supabase · Paystack · ZeptoMail |
+| **AppliaED** | Job automation SaaS — scraping, AI scoring, WhatsApp alerts | NestJS · Vite · BullMQ · Playwright · OpenRouter |
+| **LoanPilot** | Autopilot agent automating loan verification & credit decisions (Qwen Cloud Global AI Hackathon) | NestJS · Baileys · Prisma · Dojah/Prembly |
 | **OracleNA** | Cloud AI code intelligence platform | Next.js · Fastify · KuzuDB · Claude API · Redis |
+| **GuardRail AML** | CBN-compliant AML/CFT SaaS for Nigerian financial institutions | Fastify · PostgreSQL · Redis · Python AI |
+| **Sisi Igbadun** | Nigerian snacks e-commerce — zero to production | Next.js 15 · Supabase · Paystack · ZeptoMail |
+| **NOLT IPPIS Intelligence** | AI-powered payroll & loan eligibility platform | Next.js · Supabase · Claude API · PostgreSQL |
 
 </div>
 
@@ -121,6 +161,8 @@
 ---
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Next-ofkin/Next-ofkin/main/magic-bar.svg" width="100%" height="6" alt="" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:3ECF8E&height=120&section=footer" />
 
